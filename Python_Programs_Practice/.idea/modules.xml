@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OpencartV1/.idea/OpencartV1.iml" filepath="$PROJECT_DIR$/../OpencartV1/.idea/OpencartV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjectDelta/.idea/ProjectDelta.iml" filepath="$PROJECT_DIR$/../ProjectDelta/.idea/ProjectDelta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Programs_Practice.iml" filepath="$PROJECT_DIR$/.idea/Python_Programs_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Selenium/.idea/Python_Selenium.iml" filepath="$PROJECT_DIR$/../Python_Selenium/.idea/Python_Selenium.iml" />
+    </modules>
+  </component>
+</project>
